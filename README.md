@@ -70,7 +70,7 @@ I'm a curious and driven learner deeply in love with AI. My dream is to contribu
 ## ✨ Fun Fact
 _"I don't just use AI – I want to build the intelligence behind it."_
 
-📄 [Here is my resume](https://drive.google.com/file/d/1QZwENstqUWVy7MfeZcPG9JhXQY-a8U8a/view?usp=sharing)
+📄 [Here is my resume](https://drive.google.com/file/d/1lZkPRu_iTyuwmcxVNTcKMDDlhtyyoFPs/view?usp=sharing)
 
 ---
 
