@@ -37,7 +37,7 @@ I'm a curious and driven learner deeply in love with AI. My dream is to contribu
 
 **Frameworks & Tools**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjMwIiB3aWR0aD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDAwIi8+PC9zdmc+)
+![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-brightgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -78,5 +78,5 @@ _"I don't just use AI – I want to build the intelligence behind it."_
 
 ![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya782&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya782&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya782&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chaitanya782&theme=tokyonight)
 
