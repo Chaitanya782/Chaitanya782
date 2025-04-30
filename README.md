@@ -77,7 +77,8 @@ _"I don't just use AI – I want to build the intelligence behind it."_
 ## 📈 GitHub Stats
 
 ![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya782&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya782&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-stats.demolab.com/?user=Chaitanya782&theme=tokyonight)
+
 
 
