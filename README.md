@@ -12,16 +12,11 @@ I'm a curious and driven learner deeply in love with AI. My dream is to contribu
 
 ## 🔭 Current Projects
 - **Query AI** *(🚧 Under Construction)* – An AI system designed to solve all SQL-related problems  
-- **DeepAgent AI** – A multi-agent research assistant using LangGraph and LangChain  
-  [GitHub Repo](https://github.com/Chaitanya782/DeepAgentAI)
-- **PDF Interview Question Generator** – A GenAI tool to generate interview questions from PDFs using LangChain
-- [GitHub Repo](https://github.com/Chaitanya782/pdf-interview-questions-generator)
-- **Enterprise AI Cost Optimizer** – An intelligent AI Cost Optimization Advisor that helps enterprises reduce LLM/API costs by 30–60%—without sacrificing performance.
-- [GitHub Repo](https://github.com/Chaitanya782/Enterprise-AI-Cost-Optimizer)
-- **Newsletter Summarizer** – An intelligent Flask web application that automatically fetches newsletters from your email, summarizes them using Google's Gemini AI, and sends you a consolidated summary directly to your inbox.
-- [GitHub Repo](https://github.com/Chaitanya782/Newsletter-Summarizer)
-- **Website Chat Bot** – A FastAPI-based intelligent chat bot for ISecServ, a professional information security services company
-- [GitHub Repo](https://github.com/Chaitanya782/Website-Chatbot)
+- **DeepAgent AI** – A multi-agent research assistant using LangGraph and LangChain  [GitHub Repo](https://github.com/Chaitanya782/DeepAgentAI)
+- **PDF Interview Question Generator** – A GenAI tool to generate interview questions from PDFs using LangChain [GitHub Repo](https://github.com/Chaitanya782/pdf-interview-questions-generator)
+- **Enterprise AI Cost Optimizer** – An intelligent AI Cost Optimization Advisor that helps enterprises reduce LLM/API costs by 30–60%—without sacrificing performance. [GitHub Repo](https://github.com/Chaitanya782/Enterprise-AI-Cost-Optimizer)
+- **Newsletter Summarizer** – An intelligent Flask web application that automatically fetches newsletters from your email, summarizes them using Google's Gemini AI, and sends you a consolidated summary directly to your inbox. [GitHub Repo](https://github.com/Chaitanya782/Newsletter-Summarizer)
+- **Website Chat Bot** – A FastAPI-based intelligent chat bot for ISecServ, a professional information security services company [GitHub Repo](https://github.com/Chaitanya782/Website-Chatbot)
 
 
 ---
