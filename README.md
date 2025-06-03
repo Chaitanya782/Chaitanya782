@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-I'm a curious and driven learner deeply in love with AI. My dream is to contribute toward Artificial General Intelligence by building meaningful models and systems. Currently, I'm exploring
+I'm a curious and driven learner deeply in love with AI. My dream is to contribute toward Artificial General Intelligence by building meaningful models and systems. Currently, I'm exploring :
 - Open-Source LLMs like DeepSeek, Phi, and LLaMA
 - Agentic Workflows with LangChain and LangGraph
 - Scalable AI Deployment with FastAPI and Docker
