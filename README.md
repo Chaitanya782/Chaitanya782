@@ -68,6 +68,7 @@ I'm a curious and driven learner deeply in love with AI. My dream is to contribu
 [🔗 LinkedIn](https://www.linkedin.com/in/chaitanyavashisth/)  
 [💻 LeetCode](https://leetcode.com/u/Chaitanya2882/)  
 [📊 Kaggle ](https://www.kaggle.com/code/drapes/)
+
 [📖 Medium](https://medium.com/@drpester001)
 
 ---
