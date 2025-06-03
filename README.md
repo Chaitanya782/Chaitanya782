@@ -65,13 +65,14 @@ I'm a curious and driven learner deeply in love with AI. My dream is to contribu
 [🔗 LinkedIn](https://www.linkedin.com/in/chaitanyavashisth/)  
 [💻 LeetCode](https://leetcode.com/u/Chaitanya2882/)  
 [📊 Kaggle ](https://www.kaggle.com/code/drapes/)
+[📖 Medium](https://medium.com/@drpester001)
 
 ---
 
 ## ✨ Fun Fact
 _"I don't just use AI – I want to build the intelligence behind it."_
 
-📄 [Here is my resume](https://drive.google.com/file/d/1lZkPRu_iTyuwmcxVNTcKMDDlhtyyoFPs/view?usp=sharing)
+📄 [Here is my resume](https://drive.google.com/file/d/1lWD-OyOkw3wbPyzSS0zjq2n7TW7M35Ah/view?usp=sharing)
 
 ---
 
